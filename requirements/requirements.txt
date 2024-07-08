@@ -1,0 +1,12 @@
+pandas==1.2.3
+ipykernel==5.5.0
+pip==20.0.2
+pyyaml==5.3.1
+scikit-learn==0.24.1
+xgboost==1.0.0
+holidays==0.10.5.2
+matplotlib==3.4.0
+pampy==0.3.0
+lightgbm==3.2.0
+catboost==0.25
+nbformat==5.1.3
